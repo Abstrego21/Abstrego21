@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Sharma</h1>
-<h3 align="center">A passionate Web Developer & Graphic Designer</h3>
+<h3 align="center">A passionate Graphic Designer</h3>
 <img alt="Image" draggable="true" src="https://pbs.twimg.com/media/Ffb0LzRWIAUVVNA?format=jpg&amp;name=4096x4096" class="css-9pa8cd">
 
 
